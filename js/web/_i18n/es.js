@@ -461,9 +461,9 @@ let i18n = {
 		"Positions": {
 			"nature": "Naturaleza",  //Todo: Translate
 			"shore": "Costa",  //Todo: Translate
-			"water": "en el agua",  //Todo: Translate
-			"cityRoadSmall": "carretera simple",  //Todo: Translate
-			"cityRoadBig": "carretera grande",   // Todo: Translate
+			"water": "En el agua",  //Todo: Translate
+			"cityRoadSmall": "Carretera simple",  //Todo: Translate
+			"cityRoadBig": "Carretera grande",   // Todo: Translate
 			"guildExpedition": "Expedición de gremio" //Todo: Translate
 		},
 		"Table": {
